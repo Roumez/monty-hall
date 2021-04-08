@@ -1,0 +1,8 @@
+{
+  "name": "monty-hall",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Roumez/monty-hall.git",
+  "author": "Roumez <remi.roumezy@hotmail.fr>",
+  "license": "MIT"
+}
